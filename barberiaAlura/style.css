@@ -1,0 +1,71 @@
+/* 
+
+Sistema Hexadecimal
+-------------------
+ 
+Alfabetos:
+    A, B, C, D, E,...
+    0, 1, 2, 3, 4,..
+    0, 1, 00, 01,...
+
+    6 posiciones.
+    _ _ _ _ _ _
+    R R G G B B
+    R = RED
+    G = GREEN
+    B = BLUE
+*/
+
+
+.tituloPrincipal{
+    padding-left: 30px;
+}
+
+#banner{
+    width: 100%;
+}
+
+.principal{
+    background: #cccccc;
+    padding: 20px;
+}
+
+.tituloCentrado{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+em strong{
+    color: red;
+}
+
+#mision{
+    font-size: 20px;
+}
+
+.diferenciales{
+    background: #ffffff;
+    padding: 30px;
+}
+
+h2{
+    text-align: center;
+}
+
+.items{
+    font-style: italic;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagenDiferenciales{
+    width: 50%;
+}
